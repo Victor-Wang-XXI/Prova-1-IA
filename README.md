@@ -20,6 +20,11 @@ Ao tocar uma parede, o personagem entrará no estado CLIMB IDLE e estará pronto
 Pressione *Esc* para sair do jogo.
 
 
+## Diagrama da Máquina de Estados Finitos
+![Diagrama Prova 1 IA](https://github.com/Victor-Wang-XXI/Prova-1-IA/assets/167023683/1d725633-9d38-473f-b387-5ed4918fd60b)
+
+
+
 ## Link do Vídeo de Gameplay
 
 https://youtu.be/DL3aXQm7HBo
