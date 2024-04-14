@@ -20,3 +20,6 @@ Ao tocar uma parede, o personagem entrará no estado CLIMB IDLE e estará pronto
 Pressione *Esc* para sair do jogo.
 
 
+## Link do Vídeo de Gameplay
+
+https://youtu.be/DL3aXQm7HBo
