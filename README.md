@@ -1,9 +1,9 @@
 # Prova-1-IA
 
 
-##Descrição dos controles:
+## Descrição dos controles:
 
-Enquanto parado em IDLE, use *A* ou *D* para se movimentar. Alterne entre ANDAR e CORRER com “SHIFT” esquerdo. 
+Enquanto parado em IDLE, use *A* ou *D* para se movimentar. Alterne entre ANDAR e CORRER com *SHIFT* esquerdo. 
 Enquanto CORRER, use *CTRL* esquerdo para DESLIZAR.
 Em IDLE, pressione *R* para dançar. Aperte *R* novamente para voltar a estado IDLE.
 Para PULAR, use a barra de *ESPAÇO* enquanto CORRER, ANDAR ou em IDLE.
