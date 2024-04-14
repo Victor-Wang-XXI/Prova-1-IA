@@ -1,5 +1,5 @@
 # Prova-1-IA
-
+Atividade realizada por Victor Wang e Luis Otávio.
 
 ## Descrição dos controles:
 
